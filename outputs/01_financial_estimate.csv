@@ -1,0 +1,18 @@
+﻿Package_Tier,Service_Item,Estimated_Hours,Base_Rate_MYR,Base_Cost_MYR,Risk_Buffer_Percent,Buffer_Amount_MYR,Line_Total_MYR,Contingency_Buffer_MYR,Grand_Total_MYR,Scope_Notes
+Core MVP,UI_UX_Design,15,120,1800,10,180,1980,,,Storefront + catalog layout (minimum billable)
+Core MVP,Frontend_Development,22,150,3300,15,495,3795,,,Responsive storefront + checkout for FPX
+Core MVP,Backend_API_Integration,18,180,3240,20,648,3888,,,FPX gateway + POS inventory sync (crucial)
+Core MVP,AI_Agent_Configuration,0,220,0,25,0,0,,,DEFERRED to Phase 2
+Core MVP,Project_Management,10,100,1000,10,100,1100,,,4-week sprint coordination (minimum billable)
+Core MVP,QA_Testing,12,90,1080,10,108,1188,,,Core functional + payment flow testing
+Core MVP,SUBTOTAL,77,,9420,,1531,10951,,,
+Core MVP,CONTINGENCY_10pct,,,,,,1095.10,,
+Core MVP,GRAND_TOTAL,,,,,,,12046.10,,Within RM 16000 budget (headroom: RM 3953.90)
+Full Enterprise,UI_UX_Design,18,120,2160,10,216,2376,,,Full storefront + catalog + AI widget UI
+Full Enterprise,Frontend_Development,28,150,4200,15,630,4830,,,Full responsive app + Stripe checkout + AI widget FE
+Full Enterprise,Backend_API_Integration,22,180,3960,20,792,4752,,,FPX + Stripe gateways + POS sync + catalog API
+Full Enterprise,AI_Agent_Configuration,12,220,2640,25,660,3300,,,Full AI recommendation engine
+Full Enterprise,Project_Management,12,100,1200,10,120,1320,,,Enhanced coordination + client reporting
+Full Enterprise,QA_Testing,14,90,1260,10,126,1386,,,Full regression + cross-browser + payment testing
+Full Enterprise,SUBTOTAL,106,,15420,,2544,17964,,,
+Full Enterprise,GRAND_TOTAL,,,,,,,17964,,Exceeds RM 16000 by RM 1964 (no contingency)

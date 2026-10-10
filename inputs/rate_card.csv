@@ -1,0 +1,7 @@
+Service_Item,Base_Rate_MYR,Unit,Minimum_Billable,Risk_Buffer_Percent
+UI_UX_Design,120,Hour,15,10
+Frontend_Development,150,Hour,20,15
+Backend_API_Integration,180,Hour,15,20
+AI_Agent_Configuration,220,Hour,10,25
+Project_Management,100,Hour,10,10
+QA_Testing,90,Hour,10,10

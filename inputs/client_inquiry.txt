@@ -1,0 +1,11 @@
+Client Name: UrbanKicks Apparel (Boutique Footwear Brand)
+Contact: Sarah Lim (Operations Director)
+Channel: WhatsApp Inbound Inquiry
+
+Message:
+"Hi! We are expanding our physical retail shop into a full online storefront. 
+We need a responsive web app with product catalogs, integrated payment gateways (FPX & Stripe), and an AI recommendation widget. 
+Crucial requirement: We also need a backend script that syncs inventory counts from our physical store POS so we don't oversell shoes.
+Timeline: We have an upcoming holiday pop-up in 4 weeks, so hard deadline is 28 days.
+Budget: Our board approved a hard ceiling of RM 16,000 for this first phase.
+Please send us a full milestone breakdown, pricing breakdown, and a slide deck we can show our directors by tomorrow morning."
